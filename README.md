@@ -8,7 +8,7 @@ This Project Are College Education..
 
 ## Authors
 
-- [@shakti-vanani](https://www.github.com/shakti-vanani)
+- [@shakti-vanani](https://www.github.com/harshakti-code)
 - [@parmar-viral](https://www.github.com/parmar-viral)
 
 ## 🛠 Skills
